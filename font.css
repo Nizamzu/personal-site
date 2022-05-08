@@ -1,0 +1,146 @@
+.link1{
+  text-decoration: none;
+  font-family: 'Cookie', cursive;
+  font-size: 30px;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+.link2{
+  text-decoration: none;
+  font-family: 'Cookie', cursive;
+  font-size: 30px;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+h1{
+  font-size: 150px;
+  font-family: 'Cookie', cursive;
+  text-align: center;
+  margin-bottom: 0;
+  color: grey;
+  font-weight: lighter;
+}
+h2{
+  font-weight: normal;
+  font-family: 'Cookie', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0;
+  color: grey;
+}
+h3{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: grey;
+}
+.para1{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: grey;
+  margin-bottom: 0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #006E7F;
+  border-width: 5px;
+  width: 15%;
+}
+.h41{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-bottom: 5px;
+}
+.para2{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-top: 5px;
+}
+.h42{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-bottom: 5px;
+}
+.para3{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-top: 5px;
+}
+.para4{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-top: 5px;
+}
+.para5{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  margin-top: 5px;
+}
+.hr1{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #006E7F;
+  border-width: 5px;
+  width: 15%;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.h31{
+  margin-top: 0;
+}
+.para6{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 30px;
+  color: grey;
+  text-align: center;
+}
+.para7{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 25px;
+  color: grey;
+  text-align: center;
+}
+.instagram{
+  text-decoration: none;
+  font-family: 'Cookie', cursive;
+  color: black;
+  font-size: 25px;
+}
+.facebook{
+  text-decoration: none;
+  font-family: 'Cookie', cursive;
+  color: black;
+  font-size: 25px;
+}
+.twitter{
+  text-decoration: none;
+  font-family: 'Cookie', cursive;
+  color: black;
+  font-size: 25px;
+}
+.para5{
+  font-family: 'Cookie', cursive;
+  color: black;
+  font-size: 30px;
+}
+.last{
+  font-family: 'Cookie', cursive;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 0;
+}
